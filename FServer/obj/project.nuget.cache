@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+UJxsZ45cO4BlEK0jtr+efJpDqpvso0PLdBc3zjmFO/NTmO1t6GVMoeKhdKorxmz2eispvnNtPFesGQ6imyliQ==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\FcSimpleServer\\FServer\\FServer.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dorschreiber\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
